@@ -43,3 +43,5 @@ Print the accuracy
 
 
  PROGRAM:
+RESULT:
+        Thus, the single perceptron model is impleneted and grapgh obtained.
